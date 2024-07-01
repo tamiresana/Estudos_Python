@@ -1,0 +1,2 @@
+
+print('Senha correta!')
